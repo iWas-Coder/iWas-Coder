@@ -1,14 +1,13 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height=70px>Hello! I am <a href="https://iwas-coder.github.io/">Wasym <a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height=70px></h1>
-</h1>
+# iWas
 
-### (...)
-  
-### (...)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=💻+PCs,+Systems,+Cybersecurity,+Programming,+Learning+💻)](https://git.io/typing-svg)
 
-## (...)
-  
-### (...)
-  
-### (...)
-  
-### (...)
+<h2 align='left'><i>Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=iWas-Coder&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+<h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iWas-Coder&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+</h3>
