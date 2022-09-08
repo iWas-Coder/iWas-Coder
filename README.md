@@ -1,5 +1,8 @@
 # iWas
 
+### Welcome to my profile!
+I am an enthusiast that works as a SysAdmin | Software Architect, and I enjoy learning and discovering new tech. All **Pinned Repositories** are the ones that I dedicated more time and I am more proud of. I hope you enjoy them! 😄
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=💻+PCs,+Systems,+Cybersecurity,+Programming,+Learning+💻)](https://git.io/typing-svg)
 
 <h2 align='left'><i>Activity Graph 📈</i></h2>
