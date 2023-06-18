@@ -5,12 +5,9 @@ I am an enthusiast that works as a SysAdmin | Software Architect, and I enjoy le
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=PCs,+Systems,+Cybersecurity,+Programming,+Learning+:D)](https://git.io/typing-svg)
 
-<h2 align='left'><i>Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iWas-Coder&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
+## Statistics 📈
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iWas-Coder&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iWas-Coder&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
